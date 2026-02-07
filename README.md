@@ -6,62 +6,64 @@
 ---
 
 ## 👨‍💻 The Story: From Reba Rakas to Chrisnov IT
-I am **Frumensius Sefridus**, widely known in the dev community as **Umek**. My digital journey began as `@rebarakaz`—a tribute to my home village, **Rakas**, in Manggarai, Flores. 
+I am **Frumensius Sefridus**, widely known as **Umek**. My digital journey began as `@rebarakaz`—a tribute to my home village, **Rakas**, in Manggarai, Flores. 
 
-Today, I build under the brand **Chrisnov IT Solutions**, a name dedicated to my two sons, **Christian** and **Reynov**. Every server I harden and every line of code I commit is a foundation for their legacy.
+Today, I build under the brand **Chrisnov IT Solutions**, a name dedicated to my two sons, **Christian** and **Reynov**. I focus on engineering high-performance, privacy-conscious systems that stand the test of time.
 
 ---
 
-## 🚀 Featured Live Projects
-### 📻 [Radio Manggarai 88](https://radiomanggarai88.online/public/rm88)
-A 24/7 global online radio station powered by **AzuraCast** & **Docker**. Broadcasting music and AI-curated content from Ruteng to the world. Stable, containerized, and high-performance.
+## 🛠️ Tech Stack & Infrastructure
+I believe in "Lean & Mean" systems. My production environment is a self-managed beast built for speed:
+- **Languages:** Python (Flask, Django), Next.js (TypeScript), PHP 8.x, Vanilla JS.
+- **Database:** PostgreSQL, MariaDB, **SQLite (Optimized with WAL Mode)**, Redis.
+- **Infrastructure:** Ubuntu Noble, CloudPanel, Nginx (Reverse Proxy), Varnish Cache.
+- **Tools:** Docker, PM2, Gunicorn, `rsync`, `rclone`, `btop`.
+
+---
+
+## 🚀 Featured Production Projects
+
+### 📻 [Radio Manggarai 88](https://radiomanggarai88.com)
+A global broadcast infrastructure bridging Manggarai to the world.
+- **The Core:** AzuraCast powered by Docker on a dedicated VPS.
+- **The Launchpad:** High-fidelity audio streaming with PWA support and real-time metadata.
+- **Live Now:** [Listen Live on AzuraCast](https://radiomanggarai88.online/public/rm88)
 
 ### 💼 [Chrisnov Invoice](https://chrisnov.cloud)
-My flagship Flask application. A lightweight, lightning-fast invoicing system for freelancers.
-- **The Tech:** Python/Flask, SQLite (optimized with **WAL Mode**), and Tailwind CSS.
-- **The Speed:** Proving that SQLite is a powerhouse when running on high-end NVMe storage.
+Professional, local-first invoicing for freelancers and agencies.
+- **Performance:** Proving that SQLite + NVMe storage can outperform cloud SaaS.
+- **Tech:** Python/Flask, Tailwind CSS, ReportLab for precise PDF rendering.
 
 ---
 
-## 🧪 Open Source & Research (The "Labs" Side)
-*Exploring the intersection of Quantitative Finance, Security, and Automation.*
+## 🧪 The Labs (Research & Open Source)
 
 ### 🤖 [QuantumBotX](https://github.com/chrisnov-it/quantumbotx) ⭐
-An advanced **MT5-based Trading Bot** built with Flask.
-- **Currently:** Optimized for Windows MT5 Terminal execution.
-- **Roadmap:** Evolving into a universal engine utilizing **`ccxt`** for cross-platform crypto and forex trading.
+**Universal Trading Engine** built for cross-platform execution.
+- **Architecture:** Adapter Pattern supporting **MT5** (Forex) and **CCXT** (Crypto).
+- **Hybrid AI:** Integrating LLM market analysis with automated risk management.
 
 ### 🔍 [Modular ReconX](https://github.com/chrisnov-it/modular_reconx) ⭐
-A modular reconnaissance framework designed for automation and scalability in security research. Built for those who need structured recon workflows.
+Advanced OSINT and reconnaissance framework. Modular design for automated domain profiling and vulnerability assessment.
 
----
-
-## 🖥️ The "Chrisnov Lab" Infrastructure
-I believe in "Lean & Mean" systems. My production environment is a self-managed powerhouse:
-- **CPU:** 4 vCPU (AMD EPYC™)
-- **RAM:** 16 GB DDR4 (Optimized for multitasking)
-- **Storage:** 200 GB NVMe (Ultra-low latency)
-- **Stack:** Ubuntu Noble, CloudPanel, Nginx (Reverse Proxy), Varnish Cache, & Redis.
+### 🔌 [WordPress Pro Suite](https://github.com/chrisnov-it) ⭐
+My collection of lightweight, PageSpeed-optimized plugins designed to replace bloated legacy tools:
+- **[AI Content Master](https://github.com/chrisnov-it/ai-content-master):** SGE-optimized content generator with deep E-E-A-T analysis (OpenRouter).
+- **[Auto Share Plugin](https://github.com/chrisnov-it/auto-share-plugin):** Non-blocking social automation using a smart Webhook strategy.
+- **[FeatherShare](https://github.com/chrisnov-it/feathershare):** High-performance social sharing with zero external dependencies and inline SVGs.
+- **[Blogger Recovery](https://github.com/chrisnov-it/blogger-recovery):** Swiss-army knife for legacy Blogspot migrations.
 
 ---
 
 ## ✍️ The VPS Chronicles
-I am currently documenting my journey in a blog series called **"The VPS Chronicles"**. I share the "behind the scenes" of managing this 16GB RAM beast—from technical deep dives to "Oh Sh*t" recovery moments. 
+I document my "behind the scenes" infra work—from hardening AMD EPYC™ servers to "Oh Sh*t" recovery moments—in my blog series. I'm a firm believer in the **"Build in Public"** philosophy.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python (Flask, Django), Next.js, PHP 8.x, Go (Experimental).
-- **Data:** MariaDB, SQLite (WAL), Redis.
-- **DevOps:** Docker, PM2, Gunicorn, Nginx, Varnish.
-- **Tools:** `btop`, `rclone`, `rsync`.
-
----
-
-## 📊 GitHub Stats
+## 📊 Performance & Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisnov-it&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnov-it&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisnov-it&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnov-it&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -69,7 +71,7 @@ I am currently documenting my journey in a blog series called **"The VPS Chronic
 ## 📫 Let's Connect
 - **Portfolio:** [chrisnov.com](https://chrisnov.com)
 - **LinkedIn:** [Reynov Christian](https://www.linkedin.com/in/reynov-christian/)
-- **Radio Stream:** [radiomanggarai88.online/public/rm88](https://radiomanggarai88.online/public/rm88)
+- **Instagram:** [@chrisnov_it](https://www.instagram.com/chrisnov_it/)
 
 ---
-*“A man who works with his hands, his brain, and his heart is an artist.” — I strive to be an artist for my sons.*
+*“A man who works with his hands, his brain, and his heart is an artist.” — Engineering for my legacy.*
