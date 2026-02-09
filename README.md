@@ -71,7 +71,7 @@ I document my "behind the scenes" infra work—from hardening AMD EPYC™ server
 ## 📫 Let's Connect
 - **Portfolio:** [chrisnov.com](https://chrisnov.com)
 - **LinkedIn:** [Reynov Christian](https://www.linkedin.com/in/reynov-christian/)
-- **Instagram:** [@chrisnov_it](https://www.instagram.com/chrisnov_it/)
+- **Instagram:** [@reynovchristian](https://www.instagram.com/reynovchristian/)
 
 ---
 *“A man who works with his hands, his brain, and his heart is an artist.” — Engineering for my legacy.*
